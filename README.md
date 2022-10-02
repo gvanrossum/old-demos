@@ -18,3 +18,6 @@ sortvisu.py       GUI programming: Visualization of different sort algorithms.
 spreadsheet.py    GUI/Application programming: A simple spreadsheet application.
 vector.py         Python basics: A vector class demonstrating special methods.
 ```
+
+Note that the history of these files was preserved from the cpython repo.
+The LICENSE file is copied from that repo, it applies to these files.
