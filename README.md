@@ -1,4 +1,4 @@
-# Very old demo files removed from the cpython remo (Tools/demo/)
+# Very old demo files removed from the cpython repo (Tools/demo/)
 
 This directory contains a collection of demonstration scripts for
 various aspects of Python programming.
