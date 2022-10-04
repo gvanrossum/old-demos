@@ -1,6 +1,6 @@
 # Very old Python demos and examples
 
-These files were rescured from the cpython repo, where they used to
+These files were rescued from the cpython repo, where they used to
 live in Tools/demo/ and Tools/scripts/.
 
 ## Demo
